@@ -1,1 +1,1 @@
-repositorio contendo meu website/curriculo pessoal para apresentacao pessoal em construcao
+repositorio contendo meu website/curriculo pessoal para apresentacao em construcao
