@@ -1,4 +1,4 @@
-<h3 align="center">Ola visitante este repositorio contem meu website/curriculo pessoal para apresentacao em consntante construcao</h3>
+<h3 align="center">🧙 Ola visitante, este repositorio contem meu website/curriculo pessoal para apresentacao em constante construcao</h3>
 
 
 <h4 align="center"> tecnologias utilizadas </h4>
@@ -10,5 +10,5 @@
 
 
 <h4> Voce pode conferir como esta ficando clicando no link abaixo </h4>
-<a href="https://www.guilhermealvesdev.com.br" target="_blank" >Clique Aqui</a>
+<a href="https://www.guilhermealvesdev.com.br" target="_blank" >🧙 Clique Aqui</a>
 </div>
