@@ -1,5 +1,7 @@
 <h3 align="center">🧙 Ola visitante, este repositorio contem meu website/curriculo pessoal para apresentacao em constante construcao</h3>
 
+<h4 align="center">O mesmo foi desenvolvido utilizando html,css3,js e bootstrap pra facilitar a responsividade, fiz o deploy da aplicacao no netlify, e o dominio www.guilhermealvesdev.com.br
+
 
 <h4 align="center"> tecnologias utilizadas </h4>
 <div align="center">
