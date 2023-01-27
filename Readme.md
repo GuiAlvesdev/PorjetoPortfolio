@@ -11,6 +11,6 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 
-<h4> Voce pode conferir como esta ficando clicando no link abaixo </h4>
+<h4> Voce pode conferir clicando no link abaixo </h4>
 <a href="https://www.guilhermealvesdev.com.br" target="_blank" >🧙 Clique Aqui</a>
 </div>
